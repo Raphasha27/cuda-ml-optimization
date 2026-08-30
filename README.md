@@ -19,3 +19,9 @@ make
 ## License
 
 MIT License
+
+
+## Live Demo
+- **GitHub Pages:** [https://raphasha27.github.io/cuda-ml-optimization](https://raphasha27.github.io/cuda-ml-optimization)
+- **Docker Hub:** [docker pull raphasha27/cuda-ml-optimization](https://hub.docker.com/r/raphasha27/cuda-ml-optimization)
+
